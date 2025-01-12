@@ -1,3 +1,3 @@
 # Currency Converter
 
-This is an app that fetches data from two APIs. One API gives the Exchange Rates and the other gives countries by currencies. Based on data from the two APIs, the app calculates the exchange rate from one currency to another based on a given amount.
+This is an app that fetches data from two APIs. One API gives the Exchange Rates and the other gives countries by currencies. Based on data from the two APIs, the app calculates the exchange rate from one currency to another based on a given amount. No
