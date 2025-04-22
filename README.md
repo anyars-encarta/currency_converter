@@ -4,4 +4,4 @@ This is an app that fetches data from two APIs. One API gives the Exchange Rates
 
 This is an app that fetches data from two APIs. One API gives the Exchange Rates and the other gives countries by currencies.
 
-One API gives the Exchange Rates and the other gives
+One API gives the Exchange Rates and the other
